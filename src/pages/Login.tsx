@@ -4,7 +4,7 @@ import { Bot } from 'lucide-react';
 
 const VALID_CREDENTIALS = [
   { id: 'Vedant', password: 'qazmlp123' },
-  { id: 'Siri', password: 'sirikaparthi12' }
+  { id: 'Siri', password: 'sirikaparthi12' },
   { id: 'Admin', password: 'admin@123' }
 ];
 
